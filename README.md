@@ -8,3 +8,4 @@ Machine Learning Study with Elements of Statistical Learning
 |2020.04.11|Logistic Regression|
 |2020.04.18|Perceptron Algorithm|
 |2020.04.25|Regression Spline|
+|2020.05.02|Natural Cubic Spline|
