@@ -12,6 +12,7 @@ class MyRegressionSpline:
     for i in range(len(k)):
       X_train_new = np.column_stack((X_train_new, np.where(np.power(X_train-k[i], m) < 0, 0, np.power(X_train-k[i], m))))
     self.beta = np.linalg.inv(np.transpose(X_train_new).dot(X_train_new)).dot(np.transpose(X_train_new)).dot(y_train)
+  
   def predict(self, X_test):
     X_test = np.array(X_test)
     X_test_new = np.power(X_test, 0)
