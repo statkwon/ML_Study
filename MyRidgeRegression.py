@@ -3,6 +3,7 @@ import numpy as np
 class MyRidgeRegerssion:
     def __init__(self, alpha=1.0):
         self.alpha = alpha
+        
     def fit(self, X_train, y_train):
         ones = np.ones(len(X_train))
         X_train = np.array(X_train)
