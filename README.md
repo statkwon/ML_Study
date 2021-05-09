@@ -10,3 +10,5 @@ Machine Learning Study with Elements of Statistical Learning
 |2020.04.25|Regression Spline|
 |2020.05.02|Natural Cubic Spline|
 |2020.05.05*|Linear Regression|
+|2020.05.08*|Ridge Regression|
+|2020.05.09|Smoothing Spline|
