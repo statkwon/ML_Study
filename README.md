@@ -12,3 +12,4 @@ Machine Learning Study with Elements of Statistical Learning
 |2021.05.05*|Linear Regression|
 |2021.05.08*|Ridge Regression|
 |2021.05.09|Smoothing Spline|
+|2021.05.23|Nadaraya-Watson Kernel Regression|
