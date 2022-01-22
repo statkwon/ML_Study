@@ -6,7 +6,7 @@ Machine Learning Study with Elements of Statistical Learning
 |:-:|:-:|
 |2021.04.04|Linear Discriminant Analysis|
 |2021.04.11|Logistic Regression|
-|2021.04.18|Perceptron Algorithm|
+|2021.04.18|Perceptron Learning Algorithm|
 |2021.04.25|Regression Spline|
 |2021.05.02|Natural Cubic Spline|
 |2021.05.05*|Linear Regression|
